@@ -36,4 +36,4 @@ I am currently developing at **AEROKOU**, the drone competition team.
 
 ### 🤝 Connect with me
 - 📧 Email: egepaskoy@gmail.com
-- 💼 LinkedIn: ![egepaksoy](https://www.linkedin.com/in/egepaksoy)
+- 💼 LinkedIn: [egepaksoy](https://www.linkedin.com/in/egepaksoy)
